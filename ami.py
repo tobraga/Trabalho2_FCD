@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+plt.title('AMI')
+plt.xlabel('Tempo')
+plt.ylabel('Amplitude')
 def ami(vetor):
 	pos = 0
 	for i in range(0,len(vetor)):
