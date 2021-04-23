@@ -23,5 +23,7 @@ def ami(vetor):
 
 #AMI
 binario = [0,1,0,0,1,0]
+#plt.plot2[0,1,0,0,1,0]
 ami(binario)
 plt.show()
+#plt.show()
