@@ -3,7 +3,7 @@
  
  ## Algoritmos dos Métodos de Codificação de Linha
  
- ** NRZ
- ** AMI
- ** B8ZS
- ** Manchester Diferencial
+ * NRZ
+ * AMI
+ * B8ZS
+ * Manchester Diferencial
