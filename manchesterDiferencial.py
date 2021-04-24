@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 plt.title('Manchester Diferencial')
 plt.xlabel('Tempo')
 plt.ylabel('Amplitude')
-def manchester_differential(vetor):
+def manchester_diferencial(vetor):
 	pos = -1
 	for i in range(0,len(vetor)):
 		if vetor[i] == 1:
@@ -25,5 +25,6 @@ def manchester_differential(vetor):
 
 #ManchesterDiferencial
 binario = [0,1,0,0,1,1]
-manchester_differential(binario)
+plt.xlabel(binario)
+manchester_diferencial(binario)
 plt.show()

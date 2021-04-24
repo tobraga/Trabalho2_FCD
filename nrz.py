@@ -14,5 +14,8 @@ def nrz(vetor):
 #NonReturnZero
 
 binario = [1,0,1,1,0]
+#x = np.arange(1, len(binario) + 1, 1)
+#plt.step(x, binario)
+plt.xlabel(binario)
 nrz(binario)
 plt.show()
