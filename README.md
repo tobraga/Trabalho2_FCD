@@ -10,5 +10,5 @@
 
  Para cada código é mostrado uma lista de bits chamada de "binário", onde é possível definir a sequencia desejada.
  Os algoritmos plotam um gráfico, que pode ser redimensionando de acordo com as funcionalidades das bibliotecas do python para melhor visualização
- Pode ser executado por:
+ \n Pode ser executado por:
   python <nome_arquivo>.py
